@@ -1,0 +1,86 @@
+[
+  {
+    "titulo": "Thriller",
+    "artista": "Michael Jackson",
+    "genero": "Pop",
+    "anio": 1982,
+    "sello": "Epic",
+    "pistas": 9,
+    "imagen": "thriller.avif",
+    "slug": "thriller",
+    "resumen": "El álbum más vendido de la historia.",
+    "descripcion": "Álbum de Michael Jackson que redefinió la música pop de los años 80. Con canciones icónicas como Billie Jean, Beat It y el tema homónimo, Thriller revolucionó la industria musical y estableció el videoclip como forma de arte. Ha vendido más de 66 millones de copias en todo el mundo."
+  },
+  {
+    "titulo": "Back in Black",
+    "artista": "AC/DC",
+    "genero": "Rock",
+    "anio": 1980,
+    "sello": "Atlantic",
+    "pistas": 10,
+    "imagen": "back-in-black.avif",
+    "slug": "back-in-black",
+    "resumen": "El regreso triunfal del rock duro australiano.",
+    "descripcion": "Grabado como homenaje al fallecido vocalista Bon Scott, Back in Black fue el primer álbum con Brian Johnson al frente. Con riffs pesados y una energía inigualable, se convirtió en el segundo álbum más vendido de la historia con más de 50 millones de copias."
+  },
+  {
+    "titulo": "The Dark Side of the Moon",
+    "artista": "Pink Floyd",
+    "genero": "Rock Progresivo",
+    "anio": 1973,
+    "sello": "Harvest",
+    "pistas": 10,
+    "imagen": "dark-side-moon.avif",
+    "slug": "dark-side-of-the-moon",
+    "resumen": "Una obra maestra del rock progresivo.",
+    "descripcion": "The Dark Side of the Moon explora temas universales como el tiempo, la codicia, la vejez y la salud mental. Con innovaciones en producción y sonido, el álbum estuvo en las listas de Billboard durante 937 semanas consecutivas. Es considerado uno de los mayores logros de la historia del rock."
+  },
+  {
+    "titulo": "Rumours",
+    "artista": "Fleetwood Mac",
+    "genero": "Rock",
+    "anio": 1977,
+    "sello": "Warner Bros.",
+    "pistas": 11,
+    "imagen": "rumours.avif",
+    "slug": "rumours",
+    "resumen": "Grabado en medio del caos personal de la banda.",
+    "descripcion": "Rumours fue grabado mientras tres parejas dentro de la banda se separaban simultáneamente. A pesar del drama personal, el resultado fue un álbum lleno de canciones emotivas y perfectamente producidas. Ha vendido más de 40 millones de copias y ganó el Grammy al Álbum del Año en 1978."
+  },
+  {
+    "titulo": "Abbey Road",
+    "artista": "The Beatles",
+    "genero": "Pop",
+    "anio": 1969,
+    "sello": "Apple",
+    "pistas": 17,
+    "imagen": "abbey-road.avif",
+    "slug": "abbey-road",
+    "resumen": "El último álbum grabado por los cuatro Beatles juntos.",
+    "descripcion": "Abbey Road fue el penúltimo álbum de los Beatles, pero el último en grabarse con los cuatro miembros. Contiene algunas de sus canciones más célebres como Come Together, Something y Here Comes the Sun. La Medley del lado B es considerada una de las mayores innovaciones en la historia del álbum."
+  },
+  {
+    "titulo": "Nevermind",
+    "artista": "Nirvana",
+    "genero": "Grunge",
+    "anio": 1991,
+    "sello": "DGC",
+    "pistas": 12,
+    "imagen": "nevermind.avif",
+    "slug": "nevermind",
+    "resumen": "El disco que llevó el grunge al mainstream mundial.",
+    "descripcion": "Nevermind catapultó a Nirvana a la fama mundial y colocó al grunge en el centro de la cultura popular. Smells Like Teen Spirit se convirtió en un himno generacional. El álbum desplazó a Michael Jackson del número uno en las listas y vendió más de 30 millones de copias globalmente."
+  },
+  {
+    "titulo": "Kind of Blue",
+    "artista": "Miles Davis",
+    "genero": "Jazz",
+    "anio": 1959,
+    "sello": "Columbia",
+    "pistas": 5,
+    "imagen": "kind-of-blue.avif",
+    "slug": "kind-of-blue",
+    "resumen": "El álbum de jazz más vendido de todos los tiempos.",
+    "descripcion": "Kind of Blue es la piedra angular del jazz modal. Miles Davis reunió a músicos extraordinarios como John Coltrane y Bill Evans para crear un álbum de improvisaciones espontáneas basadas en escalas modales en lugar de acordes. Su influencia trasciende el jazz y abarca todos los géneros musicales."
+  }
+]

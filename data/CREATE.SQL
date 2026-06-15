@@ -1,0 +1,13 @@
+CREATE TABLE IF NOT EXISTS albumes (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  titulo TEXT NOT NULL,
+  artista TEXT NOT NULL,
+  genero TEXT,
+  anio INTEGER,
+  sello TEXT,
+  pistas INTEGER,
+  imagen TEXT,
+  slug TEXT UNIQUE NOT NULL,
+  resumen TEXT,
+  descripcion TEXT
+);
